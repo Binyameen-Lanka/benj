@@ -1,20 +1,33 @@
-body{background-color: #E1FFEE}
-h1{font-family:"quote";
-  color: #6C4AB6}
-hr{
-border-style:none ;
-border-top-style: dotted;
-border-color: grey;
-border-width: 7px;
-width: 3%;
-}
-.co{
-color: #8D9EFF
-}
-h2{
-  color:#892CDC
+body {
+  background-color: #E1FFEE
 }
 
-#blak{
+h1 {
+  font-family: "quote";
+  color: #6C4AB6
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 3%;
+}
+
+.co {
+  color: #8D9EFF
+}
+
+h2 {
+  color: #892CDC
+}
+
+#ty {
+  overflow: auto;
+  width: 200px
+}
+
+#blak {
   color: black
 }

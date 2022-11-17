@@ -1,10 +1,12 @@
 body {
-  background-color: #E1FFEE
+  background-color: #E1FFEE;
+
 }
 
 h1 {
-  font-family: "quote";
-  color: #6C4AB6
+  color: #6C4AB6;
+    font-family: 'Sacramento', cursive;
+  font-size: 50px;
 }
 
 hr {
@@ -16,7 +18,8 @@ hr {
 }
 
 .co {
-  color: #8D9EFF
+  color: #8D9EFF;
+
 }
 
 h2 {

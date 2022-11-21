@@ -22,7 +22,7 @@ h1 {
 }
 h3{
   font-family: 'Source Sans Pro', sans-serif;
-color: #892CDC;
+
 
 }
 hr{
@@ -46,7 +46,7 @@ margin-left: 260px;
 }
 
 #name{
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .mark{
   float: left;
@@ -73,7 +73,6 @@ h2 {
   padding-top: 150px;
 }
 
-
 .cloud-top {
   background-color: #E1FFEE;
   margin: 0px;
@@ -82,13 +81,7 @@ h2 {
   right: 300px;
   top: 70px;
 }
-.pad{
-  margin-top: 50px;
-}
-.pa{
-  margin-bottom: 10px;
-  text-align: left;
-}
+
 .mountain {
   height: 550px;
   padding-top: 20px;
@@ -131,20 +124,4 @@ h2 {
 }
 .footer-link{
   padding-right: 5px;
-}
-.skills{
-  padding-top: 30px
-}
-.sho{
-  padding-top: 30px
-}
-.sh{
-  width: 50%;
-  margin: 30px auto 100px auto;
-  text-align: center;
-}
-.flot{
-float: left;
-margin-left: 170px;
-  margin-right: 10px;
 }

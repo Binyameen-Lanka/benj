@@ -17,9 +17,7 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   background-color: #E1FFEE;
 }
-.part{
-  font-family: 'Montserrat', sans-serif;
-}
+
 h3{
   font-family: 'Source Sans Pro', sans-serif;
 color: #892CDC;
@@ -33,9 +31,7 @@ hr{
   width: 3%;
 }
 
-#part {
-  font-family: 'Montserrat', sans-serif;
-}
+
 .space{
 float: left;
 margin-left: 260px;
@@ -82,9 +78,7 @@ h2 {
   right: 300px;
   top: 70px;
 }
-.pad{
-  margin-top: 50px;
-}
+
 .pa{
   margin-bottom: 10px;
   text-align: left;
@@ -139,10 +133,7 @@ padding-left: 500px;
 .footer-link{
   padding-right: 5px;
 }
-.skills{
-  padding-top: 30px
-}
-.sho{
+.skills,.sho{
   padding-top: 30px
 }
 .sh{

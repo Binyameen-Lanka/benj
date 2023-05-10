@@ -123,7 +123,7 @@ padding-left: 500px;
   padding: 10px 20px 10px 10px;
   text-decoration: none;
 }
-
+.bb{color: #576CBC}
 .btn:hover {
   background: #9f3cfc;
   background-image: -webkit-linear-gradient(top, #9f3cfc, #2bada7);

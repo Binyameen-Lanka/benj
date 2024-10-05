@@ -1,151 +1,162 @@
 body {
-  padding-top: 0px;
-  padding-right: 0px;
-  padding-left: 0px;
-  text-align: center;
-  background-color: #F8F8F8;
-  font-family: 'Roboto', sans-serif;
-
-}
-
-h1 {
-  font-size: 70px;
-  font-family: 'Sacramento', cursive;
-}
-#text{
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-  background-color: #E1FFEE;
-}
-
-h3{
-  font-family: 'Source Sans Pro', sans-serif;
-color: #892CDC;
-{
-
-}
-}
-hr{
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 7px;
-  width: 3%;
-}
-
-
-.space{
-float: left;
-margin-left: 260px;
-}
-
-.Badminton{
-  margin-top: 20px
-}
-
-#name{
-  margin-bottom: 50px;
-}
-.mark{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    background-color: #F8F8F8;
+    font-family: 'Roboto', sans-serif;
+  
+  }
+  
+  h1 {
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+  }
+  #text{
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E1FFEE;
+  }
+  
+  h3{
+    font-family: 'Source Sans Pro', sans-serif;
+  color: #892CDC;
+  
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 3%;
+  }
+  
+  .space{
   float: left;
-  margin-right: 10px;
-}
+  margin-left: 260px;
+  }
+  
+  .Badminton{
+    margin-top: 20px;
+  }
+  .football{
+    margin-top: 20px;
+    margin-right: 150px;
+  }
 
-h2 {
-  font-family: 'Montserrat', sans-serif;
-  color: #A5F1E9;
-}
+  #sp{
+   position: absolute right;
+   padding-right: 25px;
+  
 
-#png {
-  margin-top: 10px;
-}
-.skill-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
-  text-align: left;
-}
-.photo {
-  text-align: center;
-  background-color: #E1FFEE;
-  height: 800px;
-  position: relative;
-  padding-top: 150px;
-}
-
-
-.cloud-top {
-  background-color: #E1FFEE;
-  margin: 0px;
-  padding: 0px;
-  position: absolute;
-  right: 300px;
-  top: 70px;
-}
-
-.pa{
-  margin-bottom: 10px;
-  text-align: left;
-}
-.mountain {
-  height: 550px;
-  padding-top: 20px;
-  width: 1000px;
-
-}
-.moun {
-  height: 550px;
-  padding-top: 20px;
-  width: 1000px;
-padding-left: 500px;
-}
-.cloud-bottom {
-  position: absolute;
-  left: 500px;
-}
-#cam{
-  padding-bottom: 20px
-}
-
-.btn {
-  background: #3498db;
-  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-  background-image: -o-linear-gradient(top, #3498db, #2980b9);
-  background-image: linear-gradient(to bottom, #3498db, #2980b9);
-  -webkit-border-radius: 18;
-  -moz-border-radius: 18;
-  border-radius: 18px;
-  text-shadow: 1px 1px 3px #997d99;
-  font-family: Georgia;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 10px;
-  text-decoration: none;
-}
-.bb{color: #576CBC}
-.btn:hover {
-  background: #9f3cfc;
-  background-image: -webkit-linear-gradient(top, #9f3cfc, #2bada7);
-  background-image: -moz-linear-gradient(top, #9f3cfc, #2bada7);
-  background-image: -ms-linear-gradient(top, #9f3cfc, #2bada7);
-  background-image: -o-linear-gradient(top, #9f3cfc, #2bada7);
-  background-image: linear-gradient(to bottom, #9f3cfc, #2bada7);
-  text-decoration: none;
-}
-.footer-link{
-  padding-right: 5px;
-}
-.skills,.sho{
-  padding-top: 30px
-}
-.sh{
-  width: 50%;
-  margin: 30px auto 100px auto;
-  text-align: center;
-}
-.flot{
-float: left;
-margin-left: 170px;
-  margin-right: 10px;
-}
+  }
+  
+  #name{
+    margin-bottom: 50px;
+  }
+  .mark{
+    float: left;
+    margin-right: 10px;
+  }
+  
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #A5F1E9;
+  }
+  
+  #png {
+    margin-top: 10px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+  #lan{
+    margin-right: 200px;
+  }
+  .photo {
+    text-align: center;
+    background-color: #E1FFEE;
+    height: 800px;
+    position: relative;
+    padding-top: 150px;
+  }
+  
+  
+  .cloud-top {
+    background-color: #E1FFEE;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 300px;
+    top: 70px;
+  }
+  
+  .pa{
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  .mountain {
+    height: 550px;
+    padding-top: 20px;
+    width: 1000px;
+  
+  }
+  .moun {
+    height: 550px;
+    padding-top: 20px;
+    width: 1000px;
+  padding-left: 500px;
+  }
+  .cloud-bottom {
+    position: absolute;
+    left: 500px;
+  }
+  #cam{
+    padding-bottom: 20px
+  }
+  
+  .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    text-shadow: 1px 1px 3px #997d99;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #9f3cfc;
+    background-image: -webkit-linear-gradient(top, #9f3cfc, #2bada7);
+    background-image: -moz-linear-gradient(top, #9f3cfc, #2bada7);
+    background-image: -ms-linear-gradient(top, #9f3cfc, #2bada7);
+    background-image: -o-linear-gradient(top, #9f3cfc, #2bada7);
+    background-image: linear-gradient(to bottom, #9f3cfc, #2bada7);
+    text-decoration: none;
+  }
+  .footer-link{
+    padding-right: 5px;
+  }
+  .skills,.sho{
+    padding-top: 30px
+  }
+  .sh{
+    width: 50%;
+    margin: 30px auto 100px auto;
+    text-align: center;
+  }
+  .flot{
+  float: left;
+  margin-left: 170px;
+    margin-right: 10px;
+  }
